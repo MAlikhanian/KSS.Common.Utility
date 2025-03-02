@@ -6,7 +6,7 @@
     <!--<Nullable>enable</Nullable>-->
 
     <PackageId>KSS.Common.Utility</PackageId>
-    <Version>0.0.0</Version>
+    <Version>1.0.0.1</Version>
     <Authors>Mohammad Alikhanian</Authors>
     <Company>KSS</Company>
     <Description>A brief description of your package.</Description>
