@@ -16,10 +16,10 @@ Click Install to add the package to your project.
 .NET CLI
 Run the following command in your terminal or command prompt:
 
-...bash
+```bash
 Copy
 dotnet add package KSS.Common.Utility
-...
+```
 Usage
 Once the package is installed, you can start using the utilities provided by KSS.Common.Utility in your project.
 
